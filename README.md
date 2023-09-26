@@ -1,8 +1,10 @@
 # Troyano
 
-Un troyano es un tipo de software malicioso que se disfraza de una aplicación legítima o atractiva para engañar a los usuarios y ganar acceso no autorizado a sus sistemas o dispositivos.
+<p align="center">
+<img src="Logotipo.png">
+</p>
 
-Troyano casi indetectable.
+Un troyano es un tipo de software malicioso que se disfraza de una aplicación legítima o atractiva para engañar a los usuarios y ganar acceso no autorizado a sus sistemas o dispositivos.
 
 ### Instalación
 
@@ -32,3 +34,7 @@ Luego de esto nos creara una carpeta Dist con el troyano ofuscado, por ultimo co
 ```
 pip install auto-py-to-exe
 ```
+
+<p align="center">
+<img src="./Img/virustotal.png">
+</p>
