@@ -38,3 +38,11 @@ pip install auto-py-to-exe
 <p align="center">
 <img src="./Img/virustotal.png">
 </p>
+
+### USO
+
+Puedes descargar archivos con el siguiente comando:
+
+```
+download <nombre de archivo>
+```
